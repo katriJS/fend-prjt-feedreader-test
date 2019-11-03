@@ -18,10 +18,10 @@ This project involves testing a web-based application that reads RSS feeds utili
 ## Test Suites
 
 
-##### Running the Feed Reader Application
+#### Running the Feed Reader Application
 Open index.html in your browser of choice to run the Feed Reader Application.
 
-##### Viewing Test Results
+#### Viewing Test Results
 To view the results of the test, have the index.html open in the browser, and scroll the the bottom of the page.
 
 ![alt text](/img/feedreader.png)
@@ -29,6 +29,7 @@ To view the results of the test, have the index.html open in the browser, and sc
 The following test suites each contain a set of tests that are related to the RSS feeds definitions, allFeeds variable, menu visibility and basic feed functionality within in the application, respectively.
 
 **RSS Feeds**
+
 | Test | Description |
 | ------ | ------ |
 | Are Defined | Ensure that the `allFeeds` variable has been defined and that it is not empty |
@@ -36,17 +37,20 @@ The following test suites each contain a set of tests that are related to the RS
 | Names are Defined | Ensures each feeds has a name defined and that the name is not empty |
 
 **The Menu**
+
 | Test | Description |
 | ------ | ------ |
 | Is Initially Hidden | Ensure the menu element is hidden by default |
 | Visibility Changes | Ensures the menu changes visibility when the menu icon is clicked |
 
 **Initial Entries**
+
 | Test | Description |
 | ------ | ------ |
 | Should not be Empty | Ensure there is at least a single `.entry` element within the `.feed` container |
 
 **New Feed Selection**
+
 | Test | Description |
 | ------ | ------ |
 | Should Change Content | Ensure when a new feed is loaded by the `loadFeed` function that the content actually changes |

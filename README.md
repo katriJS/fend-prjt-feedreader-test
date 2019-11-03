@@ -38,7 +38,7 @@ The following test suites each contain a set of tests that are related to the RS
 | Test | Description |
 | ------ | ------ |
 | Is Initially Hidden | Ensure the menu element is hidden by default |
-| Visibility Changes | Ensures the menu changes visibility when the menu icon is clicked |
+| Toggles Visibility | Ensures the menu changes visibility when the menu icon is clicked |
 
 **Initial Entries**
 | Test | Description |

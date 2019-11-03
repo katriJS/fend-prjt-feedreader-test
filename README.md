@@ -1,6 +1,5 @@
 # FeedReader Application TDD
-#
-#
+
 
 
 ## Project Overview
@@ -17,14 +16,16 @@ This project involves testing a web-based application that reads RSS feeds utili
 
 
 ## Test Suites
-##
+
 
 ##### Running the Feed Reader Application
 Open index.html in your browser of choice to run the Feed Reader Application.
-##
+
 ##### Viewing Test Results
 To view the results of the test, have the index.html open in the browser, and scroll the the bottom of the page.
-![alt text](/img/screenshot.png)
+
+![alt text](/img/feedreader.png)
+
 The following test suites each contain a set of tests that are related to the RSS feeds definitions, allFeeds variable, menu visibility and basic feed functionality within in the application, respectively.
 
 **RSS Feeds**

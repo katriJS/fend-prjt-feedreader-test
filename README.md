@@ -65,4 +65,5 @@ This repository is for a Udacity FEND project. Therefore, pull requests are not 
 
 [//]: # (reference links)
    [Jasmine]: <http://jasmine.github.io/>
-   [Udacity Front-end Nanaodegree]: <https://www.udacity.com/course/front-end-web-develope
+   [Udacity Front-end Nanaodegree]: <https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011>
+   [zip]: <https://github.com/katriJS/fend-prjt-feedreader-test/archive/master.zip>

@@ -1,11 +1,5 @@
 # FeedReader Application TDD
-<<<<<<< HEAD
 
-||||||| merged common ancestors
-#
-#
-=======
->>>>>>> readme
 
 
 
@@ -22,24 +16,11 @@ This project involves testing a web-based application that reads RSS feeds utili
  ```
 
 
-<<<<<<< HEAD
-## Test Suites
-||||||| merged common ancestors
-## Test Suites
-##
-=======
 ### Test Suites
 
->>>>>>> readme
 
-<<<<<<< HEAD
 
 #### Running the Feed Reader Application
-||||||| merged common ancestors
-##### Running the Feed Reader Application
-=======
-#### Running the Feed Reader Application
->>>>>>> readme
 Open index.html in your browser of choice to run the Feed Reader Application.
 
 #### Viewing Test Results
